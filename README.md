@@ -3,8 +3,7 @@
 # 👨‍💻 Anjani Kashyap  
 ### **Software Developer | .NET Specialist | Full-Stack Engineer**
 
-<img src="https://avatars.githubusercontent.com/{{YOUR_GITHUB_USERNAME}}" alt="Anjani Kashyap" width="200" height="200" style="border-radius:50%; border: 5px solid #2d79c7; box-shadow: 0 0 20px rgba(45, 121, 199, 0.3);"/>
-*Replace with your banner image*
+
 
 [![Email](https://img.shields.io/badge/Email-anjanikashyap.it%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:anjanikashyap.it@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-9568178794-green?style=for-the-badge&logo=whatsapp)](tel:+919568178794)
